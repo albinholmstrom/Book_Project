@@ -1,0 +1,24 @@
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to right top,
+    #41454a,
+    #434b53,
+    #44525c,
+    #455965,
+    #44606e,
+    #416a78,
+    #3d7481,
+    #387e89,
+    #318e92,
+    #309d98,
+    #39ac99,
+    #4cbb97
+  );
+}

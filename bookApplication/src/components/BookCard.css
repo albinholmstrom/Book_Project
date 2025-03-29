@@ -1,0 +1,42 @@
+.book-card {
+  background-color: #213547;
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 15px;
+  padding: 25px;
+  overflow: hidden;
+  max-width: 350px;
+  max-height: 750px;
+  border-radius: 15px;
+  min-width: 300px;
+  min-height: 600px;
+}
+
+.book-overlay {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.favorite-btn {
+  background-color: lightblue;
+}
+
+.book-cover {
+  max-width: 325px;
+}
+.book-cover-img {
+  max-width: 325px;
+}
+
+.book-title {
+  color: lightblue;
+}
+
+.book-release {
+  color: lightblue;
+}
